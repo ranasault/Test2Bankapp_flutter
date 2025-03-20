@@ -1,6 +1,16 @@
 # test2_flutter
 
-A new Flutter project.
+A new Flutter project. I done this coding by myself and i also use online sources like chatgpt to done my  work.
+i updated the coding of main.dart file and pubspec.yaml file with the help of chatgpt.
+
+My Rajputana Banking app is a simple mobile banking application that allows users to:
+ View a welcome screen with a bank logo, a greeting message, and today's date.
+ Navigate to an account list screen showing different bank accounts with balances.
+ Select an account and view transaction details for that account.
+ Navigate only in a controlled way:
+
+Welcome → Account List → Transactions
+Transactions → Account List → Welcome
 
 ## Getting Started
 
