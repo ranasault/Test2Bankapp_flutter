@@ -11,6 +11,11 @@ My Rajputana Banking app is a simple mobile banking application that allows user
 
 Welcome → Account List → Transactions
 Transactions → Account List → Welcome
+Key Features
+Dynamic JSON Parsing (Reads accounts & transactions from JSON files)
+Simple & Clean UI (Uses ListView, Card, Text, and Icons)
+Navigation Control (Users can move between screens in a structured way)
+Date Formatting (Uses intl package for displaying dates)
 
 ## Getting Started
 
