@@ -1,6 +1,6 @@
 # test2_flutter
 
-A new Flutter project. I done this coding by myself and i also use online sources like chatgpt to done my  work.
+A new Flutter project. I done this coding by myself and i also use online source to done my  work.
 i updated the coding of main.dart file and pubspec.yaml file with the help of chatgpt.
 
 My Rajputana Banking app is a simple mobile banking application that allows users to:
